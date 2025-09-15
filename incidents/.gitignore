@@ -1,3 +1,5 @@
+.env
+
 # CAP a
 _out
 *.db
